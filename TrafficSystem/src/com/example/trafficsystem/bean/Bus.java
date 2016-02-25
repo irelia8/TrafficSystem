@@ -7,7 +7,7 @@ public class Bus extends Car {
 	private float distanceTo1;
 	private float distanceTo2;
 	
-	
+	//
 
 	public Bus(int id) {
 		super(id);
